@@ -1,0 +1,32 @@
+_repo: Quand-la-Terre-trembla_69597
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anet, Claude
+    alias: Schopfer, Jean
+    birthdate: 1868
+    deathdate: 1931
+    gutenberg_agent_id: '8829'
+    url: http://www.gutenberg.org/2009/agents/8829
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean_Schopfer
+    - https://fr.wikipedia.org/wiki/Claude_Anet
+description: ''
+gutenberg_issued: '2022-12-21'
+identifiers:
+  gutenberg: '69597'
+language: fr
+pgterms:marc904: https://archive.org/details/quandlaterretrem00schouoft
+pgterms:marc905: 20220725221708anet
+pgterms:marc906: '1921'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'France: Bernard Grasset,1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Quand la Terre trembla
+url: http://www.gutenberg.org/ebooks/69597
