@@ -1,5 +1,8 @@
 _repo: Quand-la-Terre-trembla_69597
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69597-h/images/cover.jpg
 creator:
   author:
     agent_name: Anet, Claude
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean_Schopfer
     - https://fr.wikipedia.org/wiki/Claude_Anet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69597#Quand-la-Terre-trembla
 gutenberg_issued: '2022-12-21'
 identifiers:
   gutenberg: '69597'
